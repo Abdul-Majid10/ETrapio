@@ -1,4 +1,4 @@
-package com.example.etrapio;
+package com.example.etrapio.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -8,6 +8,8 @@ import android.text.TextUtils;
 import android.view.View;
 import android.widget.EditText;
 import android.widget.Toast;
+
+import com.example.etrapio.R;
 
 public class LoginActivity extends AppCompatActivity {
 
