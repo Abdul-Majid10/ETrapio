@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "686695556803",
+    "project_id": "etrapio",
+    "storage_bucket": "etrapio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686695556803:android:f87aa0200c7c7fd91c2476",
+        "android_client_info": {
+          "package_name": "com.example.etrapio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686695556803-03i06ad3954qnncsh0le1tal4glifelo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpE27fMGlS9qH-tk299iZdUOUPjM6_nkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686695556803-03i06ad3954qnncsh0le1tal4glifelo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
